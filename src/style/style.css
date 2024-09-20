@@ -47,18 +47,18 @@ body {
     margin-bottom: 12px;
     width: 24%;
     font-weight: 800;
-    font-size: 14px;
+    font-size: 0.875rem;
 }
 
 .date {
     margin: 0 0 12px 0;
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: medium;
 }
 
 .title {
     margin-bottom: 12px;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 900;
 }
 
@@ -70,14 +70,14 @@ body {
 }
 
 .text {
-    font-size: 16px;
+    font-size: 1rem;
     color: #6B6B6B;
     font-weight: medium;
 }
 
 .creator {
     display: flex;
-    margin-bottom: 24px;
+    margin-bottom: 1.5rem;
     align-items:center ;
 }
 
@@ -88,7 +88,7 @@ body {
 }
 
 .name {
-    font-size: 14px;
+    font-size: 0.875rem;
     margin-left: 12px;
     font-weight: 900;
 }
